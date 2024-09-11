@@ -14,6 +14,7 @@ menu = """
 
 Selecione uma operação para iniciar """
 
+-----------------------------------------------
 saldo = 0
 
 limite = 500
